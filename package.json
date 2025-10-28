@@ -16,6 +16,7 @@
     "test": "jest",
     "tsc": "tsc",
     "lint": "eslint .",
+    "lint:debug": "eslint --debug .",
     "prettier": "prettier"
   },
   "dependencies": {
